@@ -1,4 +1,4 @@
-
+//Gonzalo Sepulveda Olivar
 
 //El array a ordenar
 const miArr: number[] = [7, 4, 6, 8, 9, 3, 5, 1, 2];
